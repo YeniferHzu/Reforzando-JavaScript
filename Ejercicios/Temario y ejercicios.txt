@@ -1,0 +1,107 @@
+E J E R C I C I O S	D E	J A V A S C R I P T
+
+Está es una serie de 30 ejercicios que tiene cómo objetivo reforzar lo aprendido de JavaScript visto en los temarios "Aprendiendo JavaScript".
+
+1. Variables y Tipos de Datos:
+-Declara una variable llamada nombre y asígnale tu nombre.
+ -Declara una variable llamada edad y asígnale tu edad.
+ -Crea una variable que contenga un número y otra que contenga una cadena de texto.
+
+2. Operadores y Expresiones:
+-Realiza una operación aritmética utilizando al menos dos operadores.
+-Escribe una expresión lógica utilizando operadores de comparación.
+
+3. Estructuras de Control:
+-Escribe un programa que determine si un número es par o impar.
+-Escribe un programa que determine si un número es positivo, negativo o cero.
+
+4. Funciones:
+-Crea una función que calcule el área de un círculo.
+-Crea una función que determine si un número es primo.
+
+5. Arreglos:
+-Crea un arreglo con nombres de frutas y muestra la lista en la consola.
+-Agrega un nuevo elemento al arreglo de frutas y muestra la lista actualizada.
+
+6. Objetos:
+-Crea un objeto que represente una persona con propiedades como nombre, edad, etc.
+-Accede a las propiedades del objeto y muestra la información en la consola.
+
+7. Bucles:
+-Crea un bucle que imprima los números del 1 al 10.
+-Crea un bucle que imprima los números pares del 1 al 20.
+
+8. Manipulación del DOM:
+-Crea un botón que cambie el color de fondo de una página web al hacer clic.
+-Crea un campo de entrada y un botón que muestre un mensaje en la consola al hacer clic.
+
+9. EventListeners:
+-Agrega un evento de clic a un elemento y muestra un mensaje en la consola al hacer clic.
+-Agrega un evento de teclado que muestre el valor de la tecla presionada.
+
+10. Programación Orientada a Objetos:
+-Crea una clase Producto con propiedades como nombre, precio, etc.
+-Crea una instancia de la clase Producto y muestra la información en la consola.
+
+11. Métodos de Arreglos:
+-Crea un arreglo de números y encuentra el número mayor.
+-Crea un arreglo de palabras y ordena alfabéticamente.
+
+12. Manejo de Strings:
+-Crea una función que invierta una cadena de texto.
+-Crea una función que cuente el número de veces que aparece una letra en una cadena.
+
+13. Trabajo con Fechas:
+-Crea una función que devuelva el día de la semana dado una fecha.
+
+14. Funciones de Flecha (Arrow Functions):
+-Convierte una función normal en una función de flecha.
+
+15. Callbacks:
+-Crea una función que acepte un callback y lo ejecute.
+
+16. Promesas:
+-Crea una promesa que se resuelva después de un cierto tiempo.
+
+17. Async/Await:
+-Crea una función asincrónica que espere la resolución de una promesa.
+
+18. Manipulación del DOM Avanzada:
+-Crea y elimina elementos dinámicamente.
+-Realiza animaciones básicas con JavaScript y CSS.
+
+19. Uso de APIs:
+-Realiza una solicitud a una API pública y muestra los datos en tu página.
+
+20. Local Storage:
+-Guarda y recupera datos del local storage del navegador.
+
+21. Validación de Formularios:
+-Crea un formulario con validación de campos como nombre, email, etc.
+
+22. Manejo de Eventos Avanzado:
+-Crea un sistema de pestañas que muestre contenido al hacer clic en un enlace.
+
+23. Creación de una Galería de Imágenes:
+-Crea una galería de imágenes que se pueda navegar.
+
+24. Cálculo de Factorial:
+-Crea una función que calcule el factorial de un número.
+
+25. Juego de Adivinar el Número:
+-Crea un juego que permita al usuario adivinar un número.
+
+26. Juego de Piedra, Papel o Tijeras:
+-Crea un juego donde el usuario juegue contra la computadora.
+
+27. Tareas Asíncronas:
+-Crea un temporizador que cuente el tiempo en segundos.
+
+28. Cronómetro:
+-Crea un cronómetro que muestre el tiempo transcurrido.
+
+29. Tareas Programadas:
+-Crea una tarea programada que realice una acción cada cierto intervalo de tiempo.
+
+30. Proyecto Final:
+-Desarrolla una pequeña aplicación web que integre varios de los conceptos aprendidos.

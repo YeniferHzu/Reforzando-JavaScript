@@ -1,0 +1,9 @@
+Ejercicio 4: Funciones
+
+Instrucciones:
+-Crea una función que calcule el área de un círculo.
+-En este ejercicio, debes crear una función que calcule el área de un círculo. La fórmula para calcular el área de un círculo es:
+
+Área=π×radio2
+
+-Puedes definir tu propia constante para el valor de π (pi), o utilizar la aproximación estándar de 3.1416.

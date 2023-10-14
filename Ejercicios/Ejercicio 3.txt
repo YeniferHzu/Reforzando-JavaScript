@@ -1,0 +1,5 @@
+Ejercicio 3: Estructuras de Control
+
+Instrucciones:
+- Usa una estructura condicional para imprimir un mensaje diferente dependiendo del valor de una variable.
+-En este ejercicio, te piden usar una estructura condicional para imprimir un mensaje diferente dependiendo del valor de una variable. Puedes usar una estructura if-else o cualquier otra estructura condicional que prefieras.

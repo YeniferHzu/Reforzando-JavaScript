@@ -1,0 +1,5 @@
+Ejercicio 1: Variables y Tipos de Datos
+
+-Declara una variable llamada nombre y asígnale tu nombre
+-Declara una variable llamada edad y asígnale tu edad:
+-Crea una variable que contenga un número y otra que contenga una cadena de texto

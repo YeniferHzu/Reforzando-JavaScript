@@ -1,0 +1,7 @@
+Ejercicio 2: Operadores y Expresiones
+
+Instrucciones:
+
+    Realiza una operación aritmética utilizando al menos dos operadores.
+
+En este ejercicio, te piden realizar una operación aritmética. Esto implica hacer una operación matemática con al menos dos números y uno o más operadores. Puedes utilizar operadores como suma (+), resta (-), multiplicación (*), división (/), entre otros.
