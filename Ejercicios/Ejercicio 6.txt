@@ -1,0 +1,6 @@
+Ejercicio 6
+Objetos
+
+-Crea un objeto que represente a una persona con propiedades cómo nombre, edad, etc.
+-Accede a las propiedades del objeto y muestra la información en consola.
+        

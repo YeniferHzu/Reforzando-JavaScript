@@ -1,0 +1,3 @@
+Ejercicio 8: Manipulación del DOM
+-Crea un botón que cambié el color de fondo de una página web al hacer clic.
+-Crea un campo de entrada y un botón que muestre un mensaje en consola al hacer clic.

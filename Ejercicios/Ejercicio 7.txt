@@ -1,0 +1,5 @@
+Ejercicio 7: Bucles
+
+- Crea un bucle que imprima los números del 1 al 10: 
+Puedes utilizar un bucle for para imprimir los números del 1 al 10. 
+- Crea un bucle que imprima los números pares del 1 al 20: Para imprimir los números pares, puedes usar un bucle for y verificar si cada número es par. 
