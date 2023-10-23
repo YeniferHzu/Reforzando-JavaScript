@@ -12,18 +12,26 @@
     <h1>Ejercicio 8 
         <br>Manipulación del DOM 
     </h1>
-        <p>
+        <p id="letras">
             <br>-Crea un botón que cambié el color de fondo de una página web al hacer clic.
             <br>-Crea un campo de entrada y un botón que muestre un mensaje en consola al hacer clic.
         
             <br><br>
-            <button id="nuevoFondo">Nuevo Fondo</button>
+            <button id="fondoOscuro">Fondo Oscuro</button>
 
         </p>
 
     <script>
         //Creando el botón
-
+        let fondoOscuro=document.getElementById('fondoOscuro');
+            fondoOscuro.addEventListener('click',function(){
+                    //Cambiando el fondo 
+                    document.body.style.backgroundColor="black";
+                        //Mostrando el mensaje
+                        console.log("¡Felicidades has hecho clic para cambiar el color!");
+                            //Cambiando el color de la letra
+                            letras.style.color="white";
+            });
     </script>
 
 </body>

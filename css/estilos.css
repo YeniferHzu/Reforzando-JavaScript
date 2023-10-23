@@ -11,3 +11,12 @@ p{
     text-align: justify;
     color: black;
 }
+
+/**/
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    size: 12px;
+    background-color: rgba(0, 102, 255, 0.815);
+    border-color: rgba(0, 102, 255, 0.815);
+}
