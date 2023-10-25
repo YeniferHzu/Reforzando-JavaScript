@@ -1,0 +1,5 @@
+Ejercicio 10: Programación Orientada a Objetos
+
+    Crea una clase Producto con propiedades como nombre, precio, etc.
+
+Para esto, necesitas definir una clase Producto en JavaScript que tenga propiedades como nombre, precio, etc. 

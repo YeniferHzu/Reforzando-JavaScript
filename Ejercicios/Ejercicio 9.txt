@@ -1,0 +1,5 @@
+Ejercicio 9: EventListeners
+
+Agrega un evento de clic a un elemento y muestra un mensaje en la consola al hacer clic.
+
+Para esto, necesitas seleccionar un elemento en tu HTML y luego agregar un evento de clic que imprima un mensaje en la consola cuando se haga clic en ese elemento.

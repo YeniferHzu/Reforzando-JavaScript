@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Ejercicio 9</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='css/estilos.css'>
+</head>
+<body>
+    
+    <h1>Ejercicio 9 
+        <br>Agrega un evento de clic a un elemento y muestra un mensaje en la consola al hacer clic.
+    </h1>
+        <p>
+            <br>Seleccionar un elemento en el HTML y luego agregar un evento de clic que imprima un mensaje en la consola cuando se haga clic en ese elemento.
+                <br><br>
+                    <button id="cliqueando">Cliqueame ;)</button>
+        </p>
+
+    <script>
+        //Seleccionando el elemento
+        let cliqueando = document.getElementById('cliqueando');
+            cliqueando.addEventListener('click',function(){
+                console.log("Cliqueando ando ;) ");
+            });
+    </script>
+
+</body>
+</html>

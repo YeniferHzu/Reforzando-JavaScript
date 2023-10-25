@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Ejercicio 10</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='css/estilos.css'>
+</head>
+<body>
+    
+    <h1>Ejercicio 10
+        <br>Programación Orientada a Objetos
+    </h1>
+        <p>
+            <br>Crea una clase "Producto" con propiedades como nombre, precio, etc.
+                <br>-Definir una clase "Producto" en JavaScript que tenga propiedades como 'nombre', 'precio', etc.
+        </p>
+
+    <script>
+        //Crando la clase Producto
+        function Producto(nombre, marca, precio) {
+            this.nombre = nombre;
+            this.marca = marca;
+            this.precio = precio;
+        }
+
+            //Creando las instancias de la clase Producto
+            let producto1 = new Producto('Pluma roja', 'Jin Ping Pen', 10);
+            let producto2 = new Producto('Lápiz', 'Paper Mate', 8);
+                
+                //Mostrando la información
+                console.log("El producto es: " + producto1.nombre + " de la marca " + producto1.marca + " costó " + producto1.precio);
+                console.log("El producto es: " + producto2.nombre + " de la marca " + producto2.marca + " costó " + producto2.precio);
+    </script>
+
+</body>
+</html>
