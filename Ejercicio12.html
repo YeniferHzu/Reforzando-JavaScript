@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Ejercicio 12</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='css/estilos.css'>
+</head>
+<body>
+    
+    <h1>Ejercicio 12
+        <br>Manejo de Strings
+        <br>
+    </h1>
+        <p>a) Invertir una Cadena de Texto:
+            <br>Para invertir una cadena de texto en JavaScript, puedes crear una función que reciba una cadena y 
+            devuelva la cadena invertida.
+            <br><br>b) Contar el Número de Veces que Aparece una Letra en una Cadena:
+            <br>Para contar el número de veces que aparece una letra en una cadena, puedes crear una función que tome la cadena y la letra como argumentos y luego recorra la cadena para contar las ocurrencias.
+        </p>
+
+    <script>
+        //Creando la función de la  "Cadena Inversa"
+        function cadenaInversa(cadena) {
+            return cadena.split('').reverse().join('');
+        }
+            //Declarando el mensaje
+            const cadenaOriginal = "Hola! Soy una cadena inversa";
+            const inversaCadena = cadenaInversa(cadenaOriginal);
+                //Imprimiendo el nuevo valor en consola
+                console.log(inversaCadena);
+
+//E J E R C I C I O   2
+
+        //Declarando la nueva funcion para "Contar una letra"
+        function contandoLetra(nuevaCadena, letra) {
+            let contador = 0;
+                //Contando la letra
+                for (let i = 0; i < nuevaCadena.length; i++){
+                    if (nuevaCadena[i].toLowerCase() === letra.toLowerCase()){
+                        contador++;
+                    }
+                }
+                    //Devolviendo el contador
+                    return contador;
+        }
+        //Declarando la variable para contar las letras
+        const mensaje = "Ando contando las letras";
+            //mostrando el mansaje original
+            console.log(mensaje);
+        const letraContada = "o";
+        const nVecesContada = contandoLetra(mensaje, letraContada);
+            //mostrando el mensaje
+            console.log(`La letra que se busca del mensaje es "${letraContada}" y aparece ${nVecesContada} en el mensaje`); 
+        
+        </script>
+
+</body>
+</html>

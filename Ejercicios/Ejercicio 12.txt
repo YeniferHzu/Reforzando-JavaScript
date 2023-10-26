@@ -1,0 +1,7 @@
+Ejercicio 12: Manejo de Strings
+
+a) Invertir una Cadena de Texto:
+- Para invertir una cadena de texto en JavaScript, puedes crear una función que reciba una cadena y devuelva la cadena invertida.
+
+b) Contar el Número de Veces que Aparece una Letra en una Cadena:
+- Para contar el número de veces que aparece una letra en una cadena, puedes crear una función que tome la cadena y la letra como argumentos y luego recorra la cadena para contar las ocurrencias.

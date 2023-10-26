@@ -1,0 +1,10 @@
+13. Trabajo con Fechas:
+a) Crear una función que devuelva el día de la semana dado una fecha:
+
+Para lograr esto, necesitas utilizar el objeto Date en JavaScript. Este objeto te permite trabajar con fechas y horas. Aquí hay un paso a paso para lograrlo:
+
+1. Crea una Función: Empieza por definir una función que acepte una fecha como argumento.
+2. Utiliza el Objeto Date: Dentro de la función, crea una instancia de la clase Date y asigna la fecha que recibiste como argumento.
+3. Obtén el Día de la Semana: Utiliza métodos del objeto Date para obtener el día de la semana. El método getDay() te dará un número que representa el día de la semana (0 para Domingo, 1 para Lunes, y así sucesivamente).
+4. Convierte el Número a un Nombre de Día: Puedes usar un arreglo o un switch para convertir el número en el nombre del día correspondiente.
+5. Retorna el Día de la Semana: Finalmente, retorna el nombre del día.
